@@ -7,8 +7,6 @@ print("hello everyone.")
 #将首字母大写
 print(message.title())
 #将字符串全部大写
-print(message.upper())
-print(message.lower())
 
 favorite_language=' python '
 favorite_language.rstrip()
@@ -46,4 +44,3 @@ print(sorted(blist,reverse=True))
 print blist
 print(len(blist))
 
-print('good afternoon git')
